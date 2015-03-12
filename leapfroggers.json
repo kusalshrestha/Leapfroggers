@@ -1,0 +1,40 @@
+{
+    "leapfroggers": [
+        {
+            "firstName": "Kusal",
+            "lastName": "Shrestha",
+            "address": "Heatuda",
+            "mobile": "9845235751",
+            "phone": "057523249",
+            "email": "kusalShrestha@lftechnology.com",
+            "skype": "shrsthakusal",
+            "github": "shrsthakusal",
+            "department": "iOS",
+            "position": "associate software engineer"
+        },
+        {
+            "firstName": "saugat",
+            "lastName": "gautam",
+            "address": "rautahat",
+            "mobile": "9841695595",
+            "phone": "",
+            "email": "saugatgautam@lftechnology.com",
+            "skype": "saugatgautam",
+            "github": "saugatgautam",
+            "department": "iOS",
+            "position": "associate software engineer"
+        },
+        {
+            "firstName": "bishal",
+            "lastName": "ghimire",
+            "address": "kathmandu",
+            "mobile": "123456789",
+            "phone": "987654321",
+            "email": "bishalghimire@lftechnology.com",
+            "skype": "bishalghimire",
+            "github": "bishalghimire",
+            "department": "iOS",
+            "position": "team lead"
+        }
+    ]
+}

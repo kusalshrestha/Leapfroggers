@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C56B326A-F951-47D0-BDDD-0AAA83258D22</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Leapfroggers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38AC5AD59FE0E5A848954BD413BE93B41B3C9DF2</key>
+		<string>github.com:kusalshrestha/Leapfroggers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Leapfroggers/Leapfroggers.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38AC5AD59FE0E5A848954BD413BE93B41B3C9DF2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kusalshrestha/Leapfroggers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38AC5AD59FE0E5A848954BD413BE93B41B3C9DF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>38AC5AD59FE0E5A848954BD413BE93B41B3C9DF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Leapfroggers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
